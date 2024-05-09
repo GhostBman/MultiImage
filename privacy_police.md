@@ -1,64 +1,67 @@
-Privacy Policy for [Multi Image]
-Effective Date: [March 10, 2024]
+Privacy Policy
+This privacy policy applies to the Multi Image app (hereby referred to as "Application") for mobile devices that was created by Berwn K. (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-This privacy policy ("Policy") describes how [MultiCode] ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of our mobile application, [Multi Image] (the "App").
 
-Information We Collect
+Information Collection and Use
+The Application collects information when you download and use it. This information may include information such as
 
-We collect two types of information through the App:
+Your device's Internet Protocol address (e.g. IP address)
+The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+The time spent on the Application
+The operating system you use on your mobile device
 
-Non-Personal Information: This information does not directly identify you as an individual. It may include:
+The Application does not gather precise information about the location of your mobile device.
 
-Device information, such as your device type, operating system, and device identifier.
-Usage data, such as how you use the App, the features you access, and your search queries.
-Log data, such as your IP address, access times, and crash reports.
-Optional Personal Information: You may choose to provide us with certain personal information, such as your email address, to receive updates or notifications about the App. We will only collect this information if you voluntarily provide it to us.
 
-How We Use Your Information
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-We use the information we collect for the following purposes:
 
-To operate and improve the App: We use the information we collect to operate the App, improve its features and functionality, and personalize your experience.
-To analyze usage trends: We use the information we collect to analyze usage trends and understand how users interact with the App.
-To communicate with you: We may use your email address to send you updates or notifications about the App.
-Sharing Your Information
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-We may share your information with third-party service providers who help us operate and improve the App. These service providers are contractually obligated to keep your information confidential and to use it only for the purposes we have specified.
 
-We will not share your information with any other third party without your consent, except as required by law.
+Third Party Access
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Data Security
 
-We take reasonable steps to protect the information you provide to us from loss, misuse, unauthorized access, disclosure, alteration, and destruction. However, no internet or electronic storage system is 100% secure.
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-Children's Privacy
+Google Play Services
 
-We do not knowingly collect information from children under the age of 13. If you are a parent or guardian and you believe your child has provided us with information, please contact us. We will delete any such information upon verification.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Your Rights
+as required by law, such as to comply with a subpoena, or similar legal process;
+when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-You have certain rights with respect to your information, which may vary depending on your location. These rights may include the right to:
+Opt-Out Rights
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-Access your information
-Rectify inaccurate information
-Request deletion of your information
-Object to the processing of your information
-You can exercise these rights by contacting us.
 
-Changes to this Policy
+Data Retention Policy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at multicode.developer@gmail.com and they will respond in a reasonable time.
 
-We may update this Policy from time to time. We will notify you of any changes by posting the new Policy on the App.
+
+Children
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (multicode.developer@gmail.com) so that they will be able to take the necessary actions.
+
+
+Security
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+
+Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+
+This privacy policy is effective as of 2024-05-09
+
+
+Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
 
 Contact Us
-
-If you have any questions about this Policy, please contact us at:
-
-[multicode.developer@gmail.com]
-
-Compliance with GDPR and CCPA
-
-If your app collects data from users in the European Union or California, you may need to comply with additional privacy regulations, such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). You should consult with an attorney to ensure your Policy complies with all applicable laws.
-
-Disclaimer
-
-This is a sample privacy policy and may not be suitable for all apps. You should consult with an attorney to create a privacy policy that is specific to your app and complies with all applicable laws.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at multicode.developer@gmail.com.
